@@ -1,0 +1,18 @@
+Internet of Things
+
+Internet of Things, commonly called IoT, is a technology in which physical
+devices are connected to the internet and can collect and exchange data.
+
+IoT devices commonly contain sensors, processors and communication modules.
+
+Examples of IoT applications include smart homes, healthcare, agriculture,
+smart cities and industrial automation.
+
+A smart home can contain connected lights, fans, cameras and temperature
+sensors. These devices can be monitored and controlled through the internet.
+
+IoT communication technologies include Wi-Fi, Bluetooth, Zigbee, LoRaWAN
+and cellular networks.
+
+IoT is useful because it enables automation, remote monitoring and
+data-driven decision making.
