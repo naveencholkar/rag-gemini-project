@@ -50,7 +50,9 @@ Google Gemini
       ↓
 Generated Answer
 
-🔄 Complete Project Workflow
+---
+
+###🔄 Complete Project Workflow
                  ┌─────────────────┐
                  │    xyz.txt      │
                  │    Document     │
@@ -101,7 +103,10 @@ Generated Answer
                  ┌─────────────────┐
                  │ Final Answer    │
                  └─────────────────┘
-🛠️ Technologies Used
+
+---
+###🛠️ Technologies Used
+
 | Technology           | Purpose                                   |
 | -------------------- | ----------------------------------------- |
 | Python               | Main programming language                 |
@@ -113,7 +118,8 @@ Generated Answer
 | VS Code              | Development environment                   |
 | Git & GitHub         | Version control and project hosting       |
 
-✨ Features
+---
+###✨ Features
 
 📄 Loads text documents
 ✂️ Splits documents into smaller chunks
@@ -125,8 +131,8 @@ Generated Answer
 💬 Interactive question-answering system
 🔐 Uses environment variables for API key protection
 ⚡ Fast vector similarity search using FAISS
-
-📂 Project Structure
+---
+###📂 Project Structure
 rag-gemini-project/
 │
 ├── rag_app.py
@@ -146,8 +152,8 @@ rag-gemini-project/
 │
 └── README.md
     └── Project documentation
-
-🚀 Installation and Setup
+---
+###🚀 Installation and Setup
 1. Clone the Repository
 git clone https://github.com/naveencholkar/rag-gemini-project.git
 2. Open the Project
